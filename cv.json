@@ -1,0 +1,274 @@
+{
+  "basics": {
+    "name": "Robert Parnell",
+    "label": "Senior Network Engineering Officer -- Cybersecurity & IT Infrastructure Architect",
+    "image": "",
+    "email": "Robert.parnell01@gmail.com",
+    "phone": "760.819.1779",
+    "url": "",
+    "summary": "Highly experienced Marine Corps network engineer with over two decades of expertise in designing, implementing, and securing mission-critical communications infrastructures. Proven track record in leading strategic network initiatives, optimizing secure data flow, and collaborating with international allies. Adept at leveraging automation tools and advanced routing technologies to enhance operational efficiency and resilience.",
+    "theme": "default",
+    "location": {
+      "address": "1699 Avenida Guillermo",
+      "postalCode": "92056",
+      "city": "Oceanside",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "robertparnell",
+        "url": "https://linkedin.com/in/robert-parnell"
+      },
+      {
+        "network": "GitHub",
+        "username": "robertparnell",
+        "url": "https://github.com/robertparnell"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "3rd Marine Aircraft Wing",
+      "position": "Senior Network Engineering Officer",
+      "location_type": "On site",
+      "location": "MCAS Miramar, San Diego, CA",
+      "url": "",
+      "startDate": "2022-06-01",
+      "endDate": null,
+      "summary": "Led strategic network infrastructure enhancements to support immediate and long-term operational demands for 3rd MAW.",
+      "highlights": [
+        "Designed and synchronized network architectures for multi-classification environments (FVEY, Top Secret, Secret, Unclassified)",
+        "Implemented automation tools such as Red Hat Ansible Tower and Cisco Catalyst Center to streamline network operations",
+        "Secured network connectivity for F-35 operations, ensuring robust and uninterrupted data flow"
+      ],
+      "responsibilities": [
+        "Managed and optimized network performance using SolarWinds tools, including BGP prefix monitoring and security event analysis",
+        "Collaborated with international allies (Australia, Japan, France) to maintain secure communications using HAIPE and VPN/MPLS encryption protocols",
+        "Oversaw data-centric server operations to optimize command and control capabilities for the Wing Commanding General"
+      ],
+      "achievements": [
+        "Successfully maintained secure and resilient network operations critical to 3rd MAW mission success",
+        "Enhanced operational efficiency through network automation and proactive threat detection"
+      ],
+      "skills": [
+        "SD-WAN",
+        "DMVPN",
+        "Red Hat Ansible",
+        "Cisco Catalyst Center",
+        "SolarWinds",
+        "Network Security",
+        "BGP Routing"
+      ]
+    },
+    {
+      "name": "3rd Marine Expeditionary Brigade (MEB)",
+      "position": "Network Engineering Officer",
+      "location_type": "On site",
+      "location": "Camp Courtney, Okinawa, JP",
+      "startDate": "2020-08-01",
+      "endDate": "2022-05-01",
+      "summary": "Managed and enhanced network capabilities to support current and future mission requirements for 3rd MEB.",
+      "highlights": [
+        "Enhanced network designs to meet operational needs and collaborated with the Japanese Self-Defense Force on joint networks",
+        "Managed network infrastructure during major MEB exercises, integrating with key operational units",
+        "Drafted and coordinated Marine Network Operations Center (MNOC) support requests to ensure mission readiness"
+      ],
+      "responsibilities": [
+        "Led network design efforts in support of MEB exercises and interoperability initiatives",
+        "Integrated with Expeditionary Strike Group 7 Task Force 76 and the 31st MEU S6 to ensure seamless communications",
+        "Provided strategic recommendations to mitigate operational impacts related to network support"
+      ],
+      "achievements": [
+        "Successfully optimized network capabilities to support joint force operations in the Pacific",
+        "Strengthened US-Japan interoperability through network infrastructure improvements"
+      ],
+      "skills": [
+        "OSPF",
+        "EIGRP",
+        "BGP",
+        "VPN/MPLS",
+        "Network Security",
+        "Infrastructure Optimization"
+      ]
+    },
+    {
+      "name": "3rd Marine Division Communications Company",
+      "position": "Network Engineering Officer",
+      "location_type": "On site",
+      "location": "Camp Courtney, Okinawa, JP",
+      "startDate": "2019-01-01",
+      "endDate": "2020-07-01",
+      "summary": "Led network engineering efforts, enhancing mobile network capabilities and interoperability across operational terrains.",
+      "highlights": [
+        "Enhanced interoperability by implementing OSPF, RIP, EIGRP, and BGP routing protocols.",
+        "Implemented traffic load balancing and DDoS mitigation strategies to ensure secure network performance.",
+        "Managed over 1,200 network prefixes for Pacific ground forces, ensuring optimal route-map configurations."
+          ],
+          "responsibilities": [
+            "Designed and managed network architectures to support tactical operations.",
+            "Collaborated with US Joint Forces to enhance network security and efficiency.",
+            "Ensured high-availability and security of network infrastructure supporting strategic communications."
+          ],
+          "achievements": [
+            "Improved network security and performance for forward-deployed forces.",
+            "Successfully mitigated multiple DDoS attacks through proactive measures.",
+            "Ensured high-availability communication channels in critical missions."
+          ],
+          "skills": [
+            "Network Engineering",
+            "BGP Routing",
+            "OSPF & EIGRP",
+            "DDoS Mitigation",
+            "Infrastructure Optimization"
+          ]
+        },
+        {
+          "name": "3rd Assault Amphibian Battalion (AAV)",
+          "position": "Network Chief",
+          "location_type": "On site",
+          "location": "Camp Pendleton, CA",
+          "startDate": "2016-08-01",
+          "endDate": "2017-12-01",
+          "summary": "Led network operations for amphibious landing teams and large-scale exercises.",
+          "highlights": [
+            "Ensured secure and available networks during amphibious operations.",
+            "Maintained Unclassified and Secret network security compliance.",
+            "Supported large-scale exercises as the G-6 Network Chief."
+          ],
+          "responsibilities": [
+            "Oversaw installation and maintenance of networking assets for AAV units.",
+            "Ensured timely deployment and security of mobile network infrastructure.",
+            "Coordinated with Marine Division G-6 for joint operations."
+          ],
+          "achievements": [
+            "Successfully provided continuous network coverage during high-tempo operations.",
+            "Implemented network hardening measures to reduce vulnerabilities.",
+            "Enhanced communication capabilities for mobile amphibious forces."
+          ],
+          "skills": [
+            "Cisco Networking",
+            "Wireless Communications",
+            "Network Security",
+            "Amphibious Operations Support"
+          ]
+        },
+        {
+          "name": "1st Battalion 5th Marines",
+          "position": "Wire/Network Chief",
+          "location_type": "On site",
+          "location": "Camp Pendleton, CA",
+          "startDate": "2013-11-01",
+          "endDate": "2016-07-01",
+          "summary": "Established and maintained secure voice and data networks for multinational exercises.",
+          "highlights": [
+            "Coordinated network operations with Australian and Japanese forces.",
+            "Planned and maintained high-availability infrastructure for tactical communications.",
+            "Trained Marines in MOS-specific skills to ensure operational readiness."
+          ],
+          "responsibilities": [
+            "Managed all aspects of network and wire infrastructure.",
+            "Developed training programs for junior Marines.",
+            "Maintained high operational standards and network readiness."
+          ],
+          "achievements": [
+            "Seamlessly integrated multinational networks for joint operations.",
+            "Reduced downtime by implementing proactive maintenance strategies.",
+            "Trained over 50 Marines in advanced network management techniques."
+          ],
+          "skills": [
+            "Tactical Networking",
+            "Cisco Call Manager Express",
+            "Network Hardening",
+            "International Communications"
+          ]
+        }
+      ],
+  "education": [
+    {
+      "institution": "University of Maryland Global Campus",
+      "url": "https://www.umgc.edu",
+      "area": "Computer Networks & Cybersecurity",
+      "studyType": "Bachelor of Science",
+      "startDate": "2020-01-01",
+      "endDate": "2023-08-01",
+      "score": "3.68 GPA",
+      "courses": []
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Palo Alto Networks Security Administrator Course",
+      "date": "2023-12-01",
+      "issuer": "Cuyamaca College",
+      "url": ""
+    },
+    {
+      "name": "Implementing Cisco Enterprise Advanced Routing and Services",
+      "date": "2023-09-01",
+      "issuer": "Skyline Training",
+      "url": ""
+    },
+    {
+      "name": "Implementing and Operating Cisco Enterprise Network Core Technologies",
+      "date": "2023-08-01",
+      "issuer": "Skyline Training",
+      "url": ""
+    },
+    {
+      "name": "Security+ CompTIA",
+      "date": "2016-11-01",
+      "issuer": "USMC Communications Training Center",
+      "url": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "BGP Routing",
+      "level": "Expert",
+      "keywords": [
+        "Enterprise Networks",
+        "Traffic Engineering",
+        "Routing Protocols"
+      ]
+    },
+    {
+      "name": "DMVPN",
+      "level": "Expert",
+      "keywords": [
+        "Secure Communications",
+        "Dynamic Routing",
+        "Tunneling"
+      ]
+    },
+    {
+      "name": "Red Hat Ansible",
+      "level": "Advanced",
+      "keywords": [
+        "Automation",
+        "Configuration Management",
+        "Infrastructure as Code"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Uniformed Victim Advocate Program",
+      "position": "Victim Advocate",
+      "startDate": "2016-07-01",
+      "endDate": "2020-09-01",
+      "summary": "Provided support and guidance to victims of sexual assault within the Marine Corps community.",
+      "highlights": [
+        "Trained to assist victims through investigative and legal processes",
+        "Advocated for victims' rights and resources"
+      ]
+    }
+  ]
+}
