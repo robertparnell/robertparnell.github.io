@@ -137,6 +137,7 @@
             "Maintained Unclassified and Secret network security compliance.",
             "Supported large-scale exercises as the G-6 Network Chief."
 <<<<<<< HEAD
+<<<<<<< HEAD
         ],
         "responsibilities": [
           "Oversaw installation and maintenance of networking assets for AAV units.",
@@ -144,13 +145,18 @@
           "Coordinated with Marine Division G-6 for joint operations."
         ],
 =======
+=======
+>>>>>>> 1aa80ec (Reinitialized repository in the correct location)
           ],
           "responsibilities": [
             "Oversaw installation and maintenance of networking assets for AAV units.",
             "Ensured timely deployment and security of mobile network infrastructure.",
             "Coordinated with Marine Division G-6 for joint operations."
           ],
+<<<<<<< HEAD
 >>>>>>> 0738d44 (Saving local changes before rebase)
+=======
+>>>>>>> 1aa80ec (Reinitialized repository in the correct location)
           "achievements": [
             "Successfully provided continuous network coverage during high-tempo operations.",
             "Implemented network hardening measures to reduce vulnerabilities.",
