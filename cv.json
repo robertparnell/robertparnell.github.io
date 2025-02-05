@@ -2,7 +2,7 @@
   "basics": {
     "name": "Robert Parnell",
     "label": "Senior Network Engineering Officer -- Cybersecurity & IT Infrastructure Architect",
-    "image": "",
+    "image": "/me_avatar.jpg",
     "email": "Robert.parnell01@gmail.com",
     "phone": "760.819.1779",
     "url": "",
@@ -105,110 +105,105 @@
         "Enhanced interoperability by implementing OSPF, RIP, EIGRP, and BGP routing protocols.",
         "Implemented traffic load balancing and DDoS mitigation strategies to ensure secure network performance.",
         "Managed over 1,200 network prefixes for Pacific ground forces, ensuring optimal route-map configurations."
-          ],
-          "responsibilities": [
-            "Designed and managed network architectures to support tactical operations.",
-            "Collaborated with US Joint Forces to enhance network security and efficiency.",
-            "Ensured high-availability and security of network infrastructure supporting strategic communications."
-          ],
-          "achievements": [
-            "Improved network security and performance for forward-deployed forces.",
-            "Successfully mitigated multiple DDoS attacks through proactive measures.",
-            "Ensured high-availability communication channels in critical missions."
-          ],
-          "skills": [
-            "Network Engineering",
-            "BGP Routing",
-            "OSPF & EIGRP",
-            "DDoS Mitigation",
-            "Infrastructure Optimization"
-          ]
-        },
-        {
-          "name": "3rd Assault Amphibian Battalion (AAV)",
-          "position": "Network Chief",
-          "location_type": "On site",
-          "location": "Camp Pendleton, CA",
-          "startDate": "2016-08-01",
-          "endDate": "2017-12-01",
-          "summary": "Led network operations for amphibious landing teams and large-scale exercises.",
-          "highlights": [
-            "Ensured secure and available networks during amphibious operations.",
-            "Maintained Unclassified and Secret network security compliance.",
-            "Supported large-scale exercises as the G-6 Network Chief."
-<<<<<<< HEAD
-<<<<<<< HEAD
-        ],
-        "responsibilities": [
-          "Oversaw installation and maintenance of networking assets for AAV units.",
-          "Ensured timely deployment and security of mobile network infrastructure.",
-          "Coordinated with Marine Division G-6 for joint operations."
-        ],
-=======
-=======
->>>>>>> 1aa80ec (Reinitialized repository in the correct location)
-          ],
-          "responsibilities": [
-            "Oversaw installation and maintenance of networking assets for AAV units.",
-            "Ensured timely deployment and security of mobile network infrastructure.",
-            "Coordinated with Marine Division G-6 for joint operations."
-          ],
-<<<<<<< HEAD
->>>>>>> 0738d44 (Saving local changes before rebase)
-=======
->>>>>>> 1aa80ec (Reinitialized repository in the correct location)
-          "achievements": [
-            "Successfully provided continuous network coverage during high-tempo operations.",
-            "Implemented network hardening measures to reduce vulnerabilities.",
-            "Enhanced communication capabilities for mobile amphibious forces."
-          ],
-          "skills": [
-            "Cisco Networking",
-            "Wireless Communications",
-            "Network Security",
-            "Amphibious Operations Support"
-          ]
-        },
-        {
-          "name": "1st Battalion 5th Marines",
-          "position": "Wire/Network Chief",
-          "location_type": "On site",
-          "location": "Camp Pendleton, CA",
-          "startDate": "2013-11-01",
-          "endDate": "2016-07-01",
-          "summary": "Established and maintained secure voice and data networks for multinational exercises.",
-          "highlights": [
-            "Coordinated network operations with Australian and Japanese forces.",
-            "Planned and maintained high-availability infrastructure for tactical communications.",
-            "Trained Marines in MOS-specific skills to ensure operational readiness."
-          ],
-          "responsibilities": [
-            "Managed all aspects of network and wire infrastructure.",
-            "Developed training programs for junior Marines.",
-            "Maintained high operational standards and network readiness."
-          ],
-          "achievements": [
-            "Seamlessly integrated multinational networks for joint operations.",
-            "Reduced downtime by implementing proactive maintenance strategies.",
-            "Trained over 50 Marines in advanced network management techniques."
-          ],
-          "skills": [
-            "Tactical Networking",
-            "Cisco Call Manager Express",
-            "Network Hardening",
-            "International Communications"
-          ]
-        }
       ],
+      "responsibilities": [
+        "Designed and managed network architectures to support tactical operations.",
+        "Collaborated with US Joint Forces to enhance network security and efficiency.",
+        "Ensured high-availability and security of network infrastructure supporting strategic communications."
+      ],
+      "achievements": [
+        "Improved network security and performance for forward-deployed forces.",
+        "Successfully mitigated multiple DDoS attacks through proactive measures.",
+        "Ensured high-availability communication channels in critical missions."
+      ],
+      "skills": [
+        "Network Engineering",
+        "BGP Routing",
+        "OSPF & EIGRP",
+        "DDoS Mitigation",
+        "Infrastructure Optimization"
+      ]
+    },
+    {
+      "name": "3rd Assault Amphibian Battalion (AAV)",
+      "position": "Network Chief",
+      "location_type": "On site",
+      "location": "Camp Pendleton, CA",
+      "startDate": "2016-08-01",
+      "endDate": "2017-12-01",
+      "summary": "Led network operations for amphibious landing teams and large-scale exercises.",
+      "highlights": [
+        "Ensured secure and available networks during amphibious operations.",
+        "Maintained Unclassified and Secret network security compliance.",
+        "Supported large-scale exercises as the G-6 Network Chief."
+      ],
+      "responsibilities": [
+        "Oversaw installation and maintenance of networking assets for AAV units.",
+        "Ensured timely deployment and security of mobile network infrastructure.",
+        "Coordinated with Marine Division G-6 for joint operations."
+      ],
+      "achievements": [
+        "Successfully provided continuous network coverage during high-tempo operations.",
+        "Implemented network hardening measures to reduce vulnerabilities.",
+        "Enhanced communication capabilities for mobile amphibious forces."
+      ],
+      "skills": [
+        "Cisco Networking",
+        "Wireless Communications",
+        "Network Security",
+        "Data Center Operations"
+      ]
+     },
+     {
+       "name": "1st Battalion 5th Marines",
+       "position": "Wire/Network Chief",
+       "location_type": "On site",
+       "location": "Camp Pendleton, CA",
+       "startDate": "2013-11-01",
+       "endDate": "2016-07-01",
+       "summary": "Established and maintained secure voice and data networks for multinational exercises.",
+       "highlights": [
+         "Coordinated network operations with Australian and Japanese forces.",
+         "Planned and maintained high-availability infrastructure for tactical communications.",
+         "Trained Marines in MOS-specific skills to ensure operational readiness."
+      ],
+      "responsibilities": [
+        "Managed all aspects of network and wire infrastructure.",
+        "Developed training programs for junior Marines.",
+        "Maintained high operational standards and network readiness."
+      ],
+      "achievements": [
+        "Seamlessly integrated multinational networks for joint operations.",
+        "Reduced downtime by implementing proactive maintenance strategies.",
+        "Trained over 50 Marines in advanced network management techniques."
+      ],
+      "skills": [
+        "Networking Cabling",
+        "Cisco Call Manager Express",
+        "Fiber Patching",
+        "International Communications"
+      ]
+    }
+  ],
   "education": [
     {
       "institution": "University of Maryland Global Campus",
       "url": "https://www.umgc.edu",
       "area": "Computer Networks & Cybersecurity",
       "studyType": "Bachelor of Science",
-      "startDate": "2020-01-01",
+      "startDate": "2017-01-01",
       "endDate": "2023-08-01",
       "score": "3.68 GPA",
+      "courses": []
+    },
+    {
+      "institution": "University of Maryland Global Campus",
+      "url": "https://www.umgc.edu",
+      "area": "Computer Studies",
+      "studyType": "Associates",
+      "startDate": "2017-01-01",
+      "endDate": "2022-08-01",
+      "score": "3.63 GPA",
       "courses": []
     }
   ],
@@ -271,19 +266,69 @@
     {
       "language": "English",
       "fluency": "Native speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Intermediate"
     }
   ],
-  "volunteer": [
+  "interests": [
     {
-      "organization": "Uniformed Victim Advocate Program",
-      "position": "Victim Advocate",
-      "startDate": "2016-07-01",
-      "endDate": "2020-09-01",
-      "summary": "Provided support and guidance to victims of sexual assault within the Marine Corps community.",
-      "highlights": [
-        "Trained to assist victims through investigative and legal processes",
-        "Advocated for victims' rights and resources"
+      "name": "Technology",
+      "keywords": [
+        "AI",
+        "Blockchain"
       ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Smith",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Personal Portfolio",
+      "isActive": false,
+      "description": "A personal portfolio website to showcase my projects and skills.",
+      "highlights": [
+        "Built with React and Tailwind CSS",
+        "Includes a blog and contact form"
+      ],
+      "url": "https://johndoe.dev",
+      "github": "https://github.com"
+    },
+    {
+      "name": "Weather App",
+      "isActive": true,
+      "description": "A web application that provides weather information for any location.",
+      "highlights": [
+        "Built with JavaScript and OpenWeatherMap API",
+        "Responsive design"
+      ],
+      "url": "https://weatherapp.com"
+    },
+    {
+      "name": "Task Manager",
+      "isActive": true,
+      "description": "A simple task management app to keep track of daily tasks.",
+      "highlights": [
+        "Built with Node.js and MongoDB",
+        "User authentication and CRUD operations"
+      ],
+      "url": "https://taskmanager.com",
+      "github": "https://github.com"
+    },
+    {
+      "name": "E-commerce Site",
+      "isActive": false,
+      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "highlights": [
+        "Product management and shopping cart functionality",
+        "Secure payment integration"
+      ],
+      "url": "https://ecommerce.com"
     }
   ]
 }
