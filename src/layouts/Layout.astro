@@ -37,14 +37,6 @@ const { image, summary, url, theme } = basics;
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Itim" />
 
 		<link rel="stylesheet" href="/themes/themes.css" />
-		<!-- Add Dark Mode Script -->
-		<script>
-(function() {
-    const theme = localStorage.getItem("theme") || "dark";
-    document.documentElement.setAttribute("data-theme", theme);
-    document.body.classList.add(theme);
-})();
-		</script>
 		<Vengeance />
 	</head>
 	<body data-theme={theme} class="relative bg-skin-fill">
