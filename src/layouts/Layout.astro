@@ -7,7 +7,6 @@ interface Props {
 }
 
 const { title } = Astro.props;
-
 const { image, summary, url, theme } = basics;
 ---
 
@@ -36,17 +35,26 @@ const { image, summary, url, theme } = basics;
 
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Itim" />
 
+		<!-- Add Dark Mode Script -->
+		<script>
+		  (function() {
+		      const theme = localStorage.getItem("theme") || "dark";
+		      document.documentElement.classList.add(theme);
+		  })();
+		</script>
+
 		<link rel="stylesheet" href="/themes/themes.css" />
 		<Vengeance />
 	</head>
-	<body data-theme={theme} class="relative bg-skin-fill">
+	<body data-theme={theme} class="relative bg-white dark:bg-gray-900 text-black dark:text-white">
 		<div class="absolute top-0 -z-10 h-full w-full print:hidden">
 			<div class="bg-skin-hue/10 absolute bottom-auto left-[20%] right-auto top-0 h-[200px] w-[200px] -translate-x-[30%] translate-y-[20%] rounded-full blur-[80px] invert-0 dark:bg-white/5"></div>
 		</div>
 		<slot />
+		
+		<!-- Ensure Global Text Styling Supports Dark Mode -->
 		<style is:global>
-			body,
-			figure {
+			body, figure {
 				margin: 0;
 				padding: 0;
 			}
@@ -67,11 +75,8 @@ const { image, summary, url, theme } = basics;
 				box-sizing: border-box;
 			}
 
-			h1,
-			h2,
-			h3,
-			h4 {
-				@apply text-skin-base;
+			h1, h2, h3, h4 {
+				@apply text-black dark:text-white;
 				margin: 0;
 				font-family:
 					system-ui,
@@ -88,7 +93,7 @@ const { image, summary, url, theme } = basics;
 			}
 
 			p {
-				@apply text-sm text-skin-muted;
+				@apply text-gray-700 dark:text-gray-300;
 				line-height: 1.5;
 				text-wrap: pretty;
 			}
@@ -100,6 +105,7 @@ const { image, summary, url, theme } = basics;
 			.dev * {
 				@apply border border-red-500/50 bg-red-500/5;
 			}
+
 			#hotkeypad [data-backdrop] {
 				@apply !bg-zinc-800 !opacity-80;
 			}
